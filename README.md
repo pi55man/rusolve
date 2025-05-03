@@ -1,5 +1,5 @@
 # usage
 
-resolve < domain name >
+rusolve < domain name >
 
 personal use
