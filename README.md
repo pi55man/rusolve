@@ -1,3 +1,5 @@
 # usage
 
-resolve <domain name>
+resolve < domain name >
+
+personal use
