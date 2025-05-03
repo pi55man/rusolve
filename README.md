@@ -1,0 +1,3 @@
+# usage
+
+resolve <domain name>
